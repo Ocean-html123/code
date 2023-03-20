@@ -1,0 +1,213 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: black;
+}
+.Total {
+    display: flex;
+    margin: 3rem 29.5rem;
+    color: white;
+}
+.overview {
+    display: flex;
+    margin: 2rem 29.5rem;
+    color: white;
+}
+.day {
+    display: flex;
+    margin: 2rem 8rem;
+    color: white;
+}
+h2 {
+    color: white;
+}
+.total {
+    border: 1px solid black;
+    border-color: black;
+    background-color: rgb(48, 3, 48);
+    margin-left: 2rem;
+    width: 10rem;
+    border-radius: 10px;
+}
+#today {
+    margin-left: 3rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.view {
+    display: flex;
+    margin: 2rem 29.5rem;
+    color: white;
+}
+.views {
+    border: 1px solid black;
+    border-color: black;
+    background-color: rgb(48, 3, 48);
+    margin-left: 2rem;
+    display: flex;
+    width: 18.1%;
+    border-radius: 10px;
+}
+.scent {
+    border: 1px solid black;
+    border-color: black;
+    background-color: rgb(48, 3, 48);
+    margin-left: 2rem;
+    display: flex;
+    width: 19%;
+    border-radius: 10px;
+}
+.page {
+    border: 1px solid black;
+    border-color: black;
+    background-color: rgb(48, 3, 48);
+    margin-left: 2rem;
+    display: flex;
+    width: 19.2%;
+    border-radius: 10px;
+}
+.sweet {
+    border: 1px solid black;
+    border-color: black;
+    background-color: rgb(48, 3, 48);
+    margin-left: 2rem;
+    display: flex;
+    width: 18%;
+    border-radius: 10px;
+}
+.tweet {
+    border: 1px solid black;
+    border-color: black;
+    background-color: rgb(48, 3, 48);
+    margin-left: 2rem;
+    display: flex;
+    width: 19%;
+    border-radius: 10px;
+}
+.like {
+    border: 1px solid black;
+    border-color: black;
+    background-color: rgb(48, 3, 48);
+    margin-left: 2rem;
+    display: flex;
+   width: 18.1%;
+   border-radius: 10px;
+}
+.profile {
+    border: 1px solid black;
+    border-color: black;
+    background-color: rgb(48, 3, 48);
+    margin-left: 2rem;
+    display: flex;
+    width: 18%;
+    border-radius: 10px;
+}
+.likes  {
+    border: 1px solid black;
+    border-color: black;
+    background-color: rgb(48, 3, 48);
+    margin-left: 2rem;
+    display: flex;
+    width: 19%;
+    border-radius: 10px;
+}
+.total {
+    text-align: center;
+}
+#img {
+    margin: 1rem;
+}
+.okay {
+    margin: 1rem;
+    color: green;
+}
+.okayy {
+    margin: 1rem;
+    color: red;
+}
+#day {
+    margin: 1rem;
+}
+h2 {
+    margin: 1rem;
+}
+#tweet {
+    margin: 1rem;
+    margin-right: -1rem;
+    margin-left: -1.5rem;
+}
+.percent {
+    margin-left: -0.01rem;
+    margin-top: 1rem;
+}
+.oceanic {
+    margin-top: 1rem;
+}
+h5, h3 {
+    color: white;
+    margin-left: 32rem;
+    margin-top: 2rem;
+    margin-bottom: -1rem;
+}
+.slort {
+    margin-top: 2.1rem;
+    margin-left: -1rem;
+}
+.Max {
+    margin-top: 1.8rem;
+    margin-left: -0.5rem;
+}
+#Tina {
+    margin-top: 1.8rem;
+    margin-left: -0.5rem;
+}
+#Maxima {
+    margin-top: 2rem;
+    margin-left: -1.5rem;
+}
+.ocean {
+    margin-top: 2rem;
+    margin-left: -1.5rem;
+}
+#tweet {
+    margin-top: 1.5rem;
+    margin-left: -1.5rem;
+}
+.percent {
+    margin-top: 1.6rem;
+    margin-left: 0.5rem;
+}
+.Maxi {
+    margin-top: 1.5rem;
+    margin-left: 1rem;
+}
+h2#win {
+    margin-top: 2.2rem;
+}
+.win {
+    margin-top: 2rem;
+}
+#youtube {
+    margin-left: -1rem;
+}
+.percent, .Max, .slort {
+    color: red;
+}
+.Maxima, .Maxi, #Tina, #tweet, .ocean {
+    color: green;
+}
+#blue {
+    border-top-color: blue;
+    border-top-width: 0.2rem;
+}
+#linear {
+    border-top-color: rgb(211, 145, 23);
+    border-top-width: 0.2rem;
+}
+#red {
+    border-top-color: red;
+    border-top-width: 0.2rem;
+}
